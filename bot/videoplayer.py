@@ -84,7 +84,7 @@ async def startvideo(client, m: Message):
                         text="✨ ɢʀᴏᴜᴘ",
                         url=f"https://t.me/{Veez.GROUP_NAME}"),
                     InlineKeyboardButton(
-                        text="🌻 ᴄʜᴀɴɴᴇʟ",
+                        text="🎞️ ᴄʜᴀɴɴᴇʟ",
                         url=f"https://t.me/{Veez.CHANNEL_NAME}")
                 ]
             ]
