@@ -23,7 +23,7 @@ telegram bot project for streaming video on telegram video chat, powered by [py-
 - Join & Leave command for assistant
 - Support inline search video
 - Support youtube search video link
-- Support PornHub direct link streaming 🔞
+- Support direct link streaming 
 - Video downloader feature
 - Song downloader feature
 - Have many other interesting features
@@ -56,7 +56,7 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 ## 💜 Deploy To Heroku
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/video-stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TnTheepori/vcplayer)
 
 ## 🚄 Deploy To Railway
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/levina-lab/video-stream&envs=API_ID,API_HASH,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,SESSION_NAME,SUDO_USERS,DURATION_LIMIT)
@@ -170,6 +170,3 @@ jobs:
 - [tofikdn](https://github.com/tofikdn) ``Dev``
 - [Laky's](https://github.com/Laky-64) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
-
-### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
